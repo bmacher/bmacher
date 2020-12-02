@@ -28,7 +28,7 @@ I also write technical articles from time to time, if you are interesting in rea
 </a>
 
 <a href="https://github.com/bmacher/bmacher">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmacher&hide=java,html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmacher&hide=java,python,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/bmacher/mevn">
