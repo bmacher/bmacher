@@ -1,15 +1,17 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/bmacher/bmacher/master/wave.gif" width="30px">
 
-my name is Benjamin and the wonderful city of Dresden (Germany) is where I am living. I’ve been working as a Cloud Software Developer for [Volkswagen](https://github.com/volkswagen) since 2019. I mainly work on [AWS](https://github.com/aws) and choose [TypeScript](https://github.com/microsoft/TypeScript) whenever and wherever I can. If I happen to develop a frontend, I always use [Vue.js](https://github.com/vuejs).
+my name is Benjamin and the wonderful city of Dresden (Germany) is where I am living. I’ve been working as a Cloud Software Developer for [Volkswagen](https://github.com/volkswagen) since 2019. I mainly work on [AWS](https://github.com/aws) and with JavaScript but recently I choose [TypeScript](https://github.com/microsoft/TypeScript) whenever and wherever I can. If I happen to develop a frontend, I always use [Vue.js](https://github.com/vuejs).
 
 I also write technical articles from time to time, if you are interesting in reading, take a look at http://medium.com/@bmacher.
 
 ### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Frontend-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Node-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 
