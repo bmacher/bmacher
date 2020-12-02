@@ -45,6 +45,6 @@ I also write technical articles from time to time, if you are interesting in rea
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bmacher&repo=ts-git-hooks&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/bmacher/cdk-frontend-pipeline">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bmacher&repo=cdk-frontend-pipeline&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/bmacher/cdk-functional-style">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bmacher&repo=cdk-functional-style&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
