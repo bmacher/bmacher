@@ -31,18 +31,18 @@ I also write technical articles from time to time, if you are interesting in rea
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmacher&hide=java,html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
+<a href="https://github.com/bmacher/mevn">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bmacher&repo=mevn&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
+<a href="https://github.com/bmacher/mevn-example">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bmacher&repo=mevn-example&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
+<a href="https://github.com/bmacher/ts-git-hooks">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bmacher&repo=ts-git-hooks&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
+<a href="https://github.com/bmacher/cdk-frontend-pipeline">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bmacher&repo=cdk-frontend-pipeline&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
