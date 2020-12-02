@@ -27,7 +27,7 @@ I also write technical articles from time to time, if you are interesting in rea
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bmacher&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Benjamin's GitHub Stats" />
 </a>
 
-<a href="https://github.com/bmacher/bmacher">
+<a href="https://github.com/bmacher">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmacher&exclude_repo=splunk-curl-command&hide=java,html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
