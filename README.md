@@ -45,6 +45,3 @@ I also write technical articles from time to time, if you are interesting in rea
 <a href="https://github.com/MartinHeinz/go-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bmacher&repo=cdk-frontend-pipeline&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<br/><br/>
-<br/><br/>
-Design copied from [@MartinHeinz](https://github.com/MartinHeinz).
