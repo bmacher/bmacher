@@ -6,6 +6,8 @@ I also write technical articles from time to time, if you are interesting in rea
 
 ![Benjamin's github stats](https://github-readme-stats.vercel.app/api?username=bmacher&include_all_commits=true&theme=cobalt)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bmacher&repo=mevn&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bmacher&repo=ts-git-hooks&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bmacher&repo=cdk-frontend-pipeline&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bmacher&repo=mevn&theme=cobalt)](https://github.com/bmacher/mevn)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bmacher&repo=ts-git-hooks&theme=cobalt)](https://github.com/bmacher/ts-git-hooks)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bmacher&repo=cdk-frontend-pipeline&theme=cobalt)](https://github.com/bmacher/cdk-frontend-pipeline)
