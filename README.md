@@ -12,12 +12,12 @@ I also write technical articles from time to time, if you are interesting in rea
 
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Frontend-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Frontend-Vuetify-informational?style=flat&logo=vuetify&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Frontend-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-ESLint-informational?style=flat&logo=eslint&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Jest-informational?style=flat&logo=jest&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Node-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=yarn&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/DevOps-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
