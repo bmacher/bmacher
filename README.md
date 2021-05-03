@@ -1,6 +1,6 @@
 # Hi there 👋
 
-my name is Benjamin and the wonderful city of [Dresden](https://www.dresden.de/en/tourism/tourism.php) (Germany) is where I am living. I’ve been working as a Cloud Software Developer for [Volkswagen](https://github.com/volkswagen) since 2019. I mainly work on [AWS](https://github.com/aws) and with [TypeScript](https://github.com/microsoft/TypeScript) & [JavaScript](). If I happen to develop a frontend, I always use [Vue.js](https://github.com/vuejs).
+my name is Benjamin and the wonderful city of [Dresden](https://www.dresden.de/en/tourism/tourism.php) (Germany) is where I am living. I’ve been working as a Cloud Software Developer for [Volkswagen](https://github.com/volkswagen) since 2019. I mainly work on [AWS](https://github.com/aws) and with [TypeScript](https://github.com/microsoft/TypeScript). If I happen to develop a frontend, I always use [Vue.js](https://github.com/vuejs).
 
 I also write technical articles from time to time, if you are interesting in reading, take a look at https://bmacher.medium.com.
 
